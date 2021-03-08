@@ -1,6 +1,6 @@
 # mycobot 机械臂ros moveit控制
 
-![mycobot](pic/mycobot.png)
+![mycobot](https://github.com/kevin-zhuang/ros_arm_moveit/blob/main/ros_arm_moveit/pic/mycobot.png)
 
 ## 机械臂固件版本
 
@@ -36,4 +36,4 @@ sudo apt-get install ros-kinetic-serial
 roslaunch ros_arm_moveit mycobot_arm_moveit.launch
 ```
 
-![moveit](pic/mycobot_moveit.png)
+![moveit](https://github.com/kevin-zhuang/ros_arm_moveit/blob/main/ros_arm_moveit/pic/mycobot_moveit.png)
