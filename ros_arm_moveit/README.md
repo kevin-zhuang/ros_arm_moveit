@@ -5,7 +5,7 @@
 ## 机械臂固件版本
 
 * Basic : Transponder
-* Atom : AtomMain
+* Atom : Atom2.1alpha
 
 ## 系统及ROS版本
 
